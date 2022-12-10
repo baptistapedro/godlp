@@ -1,0 +1,5 @@
+project: godlp
+target: godlp
+
+cmds:
+  - cmd: /fuzz_detectjson
